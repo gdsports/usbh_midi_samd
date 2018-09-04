@@ -1,6 +1,8 @@
 # usbh_midi_samd
 USB Host MIDI for Arduino SAMD boards
 
+WARNING: This repo is no longer maintained. See https://github.com/gdsports/USB_Host_Library_SAMD for the latest USBH_MIDI driver.
+
 usbh_midi_samd is the USBH_MIDI driver from the USB Host Shield 2.0 project to
 the ArduinoCore-samd project.  Most of the time was spent fixing bulk in/out
 pipes. A USB OTG to host cable or adapter is required.
